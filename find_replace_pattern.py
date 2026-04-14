@@ -1,4 +1,3 @@
-import math
 from typing import List
 
 # def constructRectangle(area: int) -> List[int]:
@@ -34,6 +33,3 @@ pattern = "abb"
 
 
 print(findAndReplacePattern(words, pattern)) # type: ignore
-
-
-# print(constructRectangle(a))
